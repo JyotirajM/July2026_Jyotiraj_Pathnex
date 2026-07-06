@@ -1,0 +1,5 @@
+30mins - Git Code practice and pushed into git
+2hr - Todays Youtube Video rewatch
+1hr - English Practice
+1hr - Studied Linux(permissions,file permissions like chmod,chown,chgrp,unmask)
+1hr - Linux Practice Or Hands-on
