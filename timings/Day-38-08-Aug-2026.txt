@@ -1,0 +1,9 @@
+30mins - Git Code practice and pushed into git
+3hr - Today's Youtube Video rewatched
+2hr - CI/CD hands-on
+2hr - Terraform hands-on
+1hr - Terraform Questions practice
+1hr - Helm hands-on
+1hr - Ansible hands-on
+1hr - ArgoCD hands-on
+2hr - Kubernetes question practice
